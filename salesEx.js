@@ -24,3 +24,13 @@ for (let i = 0; i < salesArr.length ; i++) {
 
 console.log(`MAX: ${max}만원입니다.`)
 console.log(`MAX: ${period+1}월이 매출이 가장 좋습니다.`)
+
+let i = 0
+
+while(i<10){
+    console.log(i)
+    i = i + 1
+}
+for(let i = 0; i < 10; i++){
+    console.log(i)
+}
